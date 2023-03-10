@@ -1,7 +1,6 @@
 // print all ascii value ?
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
         char x= 65 ;
         int i,j,key ;
         for(j=2; j<16; j++) {
